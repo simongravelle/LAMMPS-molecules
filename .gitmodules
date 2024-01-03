@@ -1,0 +1,3 @@
+[submodule "atb2lammps"]
+	path = atb2lammps
+	url = git@github.com:simongravelle/atb2lammps.git
