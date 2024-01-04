@@ -1,0 +1,34 @@
+# Mass
+mass 1 12.011
+mass 2 1.00784
+mass 3 1.00784
+mass 4 12.011
+mass 5 15.999
+mass 6 1.00784
+
+# Pair coefficients
+pair_coeff 1 1 0.066 3.5 # Ch - Ch
+pair_coeff 2 2 0.03 2.5 # Hcc - Hcc
+pair_coeff 3 3 0.0 0.0 # Ho - Ho
+pair_coeff 4 4 0.066 3.5 # Co - Co
+pair_coeff 5 5 0.17 3.12 # Oh - Oh
+pair_coeff 6 6 0.03 2.5 # Hco - Hco
+
+# Bond coefficients
+bond_coeff 1 268 1.529
+bond_coeff 2 340 1.09
+bond_coeff 3 320 1.41
+bond_coeff 4 553 0.945
+
+# Angle coefficients
+angle_coeff 1 33 107.8
+angle_coeff 2 37.5 110.7
+angle_coeff 3 50 109.5
+angle_coeff 4 35 109.5
+angle_coeff 5 55 108.6
+
+# Dihedral coefficients
+dihedral_coeff 1 -0.356 -0.174 0.492 0.0
+dihedral_coeff 2 0.0 0.0 0.468 0.0
+dihedral_coeff 3 0.0 0.0 0.450 0.0
+dihedral_coeff 4 0.0 0.0 0.318 0.0
