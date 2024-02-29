@@ -4,6 +4,9 @@
   <img src="luoteolin.png" align="right" width="40%"/>
 </a>
 
+This repository contains molecule and parameter files compatible with LAMMPS. The initial
+molecule topologies were downloaded from the ATB, and the parameters are from the GROMOS force field.
+
 ## Full molecule list
 
 - [acetronitrice](acetronitrice_C2H3N)
