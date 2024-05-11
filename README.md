@@ -13,6 +13,7 @@ molecule topologies were downloaded from the ATB, and the parameters are from th
 - [methane](methane_CH4)
 - [carbondioxide](carbondioxide_CO2)
 - [decane](decane_C10H22)
+- [peg](peg_C28H58O15)
 - [luteolin](luteolin_C15H10O6)
 - [ethane](ethane_C2H6)
 - [acetronitrice](acetronitrice_C2H3N)
